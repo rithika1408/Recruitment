@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-04-02
+Pega-Codeset-Version: 06-01-01
+ArtifactName: ABCRecru
+Synchronizable: false
+ArtifactVersion: 01.01.01
+Type: Product
+Product-Creation-Date: 2021-May-23 00:00:00
+PRPC-Engine: 8.4.1 PRPC-8.4.1-359 ()
+Operator: author@mytown
+ArtifactType: application
+Pega-Archive-Type: ApplicationBundle
+Name: ABCRecru_010101_20210523T075058_GMT.zip
+Archive-Type: PegaArchive
+Export-Date: 2021-May-23 03:51:05
+Pega-Codeset-Name: Customer
+Instance-Count: 3575
+
+Name: FileMetadata
+
